@@ -18,11 +18,12 @@ extract detailed insights
 - Identified key patterns and geographical disparities in emergency response times, aiding in data-driven decision-making.
 
 ### Project 3: Machine Learning-Based Bank Customer Churn Prediction, 2023
+- https://github.com/AlessandroSciorilli/Bank_Customer_Churn_Prediction_Machine_Learning
 - Crafted multiple machine learning models (K-Nearest Neighbors, Naive Bayes, Support Vector Machine, Decision Tree, Random Forest, K-Means Clustering, and Logistic Regression) for predicting customer churn in banking sector.
 - Executed comprehensive data preprocessing and exploratory data analysis, focusing on customer demographics, financial behaviors, and product usage to uncover key indicators of churn.
 - Employed 5-Fold Cross-validation and confusion matrix analysis for model evaluation, identifying Random Forest as the most effective model with superior accuracy.
 - Deployed the final model on PythonAnywhere using Flask, with a user-friendly web interface for real-time predictions, and exported the model using pickles for efficient deployment.
-- Model: https://asciorilli.pythonanywhere.com/Bank_Customer_Churn_Prediction 
+- Model is deployed at the following link: https://asciorilli.pythonanywhere.com/Bank_Customer_Churn_Prediction 
 
 ### Project 4: Machine Learning Model for Skin Tumor Image Classification, 2023
 - Developed a machine learning model to classify skin tumors using dermatoscopic images, enhancing early diagnosis and treatment strategies.
@@ -30,7 +31,7 @@ extract detailed insights
 - Balanced the dataset by resizing and ensuring equal representation of different tumor types, leading to more accurate and unbiased classification results.
 - Utilized a variety of machine learning algorithms for accurate tumor classification, achieving exceptional results with the Random Forest Classifier, characterized by high accuracy, precision, recall, and F1-score, demonstrating its robustness in identifying different tumor types.
 - Deployed the model on PythonAnywhere with a user-friendly interface for real-time predictions
-- Model: https://asciorilli.pythonanywhere.com/skin_tumor_image_classifier
+- Model is deployed at the following link: https://asciorilli.pythonanywhere.com/skin_tumor_image_classifier
 
 ### Project 5: Predictive Revenue Forecasting for B2B Client Management (Top 5 finalist at Pitney Bowes Data Challenge), 2023
 - Implemented an ARIMA-based predictive model for revenue forecasting, utilizing Python for data analysis and modeling.
