@@ -10,6 +10,7 @@
 extract detailed insights
 
 ### Project 2: Analyzing Millions of NYC Fire Incident Dispatch Data with AWS (Elasticsearch, Kibana), 2023
+- https://github.com/AlessandroSciorilli/NYC_fire_incidents_analysis_AWS
 - Executed a large-scale data analysis of over 5 million NYC fire incident dispatch records, leveraging AWS, Elasticsearch, and Kibana.
 - Utilized AWS EC2, Amazon OpenSearch Service, and Docker for robust data processing and analysis infrastructure.
 - Performed ETL processes using Python, interacting with Socrata Open Data API for data extraction and indexing.
