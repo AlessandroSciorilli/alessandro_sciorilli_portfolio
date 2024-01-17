@@ -44,12 +44,14 @@ extract detailed insights
 - Tableau Dashboard at the following link: https://public.tableau.com/app/profile/alessandrosciorilli/viz/PitneyBowesAnalysis/Dashboard2
 
 ### Project 6: Design and Implementation of a SQL Database, 2023
+- https://github.com/AlessandroSciorilli/bakery_shop_sql_database
 - Created a SQL-driven database for a fictional Manhattan bakery to streamline operations and customer data management.
 - Designed a comprehensive Entity Relationship (ER) model using UML, accurately representing bakery operations and relationships.
 - Implemented a normalized relational database schema, focusing on efficient data organization with primary and foreign key constraints.
 - Executed complex SQL operations, including joins, sub-queries, and views, to facilitate in-depth data analysis and reporting.
   
 ### Project 7: S&P500 Industries Performance Comparison with Python, 2023
+- https://github.com/AlessandroSciorilli/SP500_industry_comparison_2022
 - Utilized Python with Pandas, NumPy, and YFinance for extracting S&P500 sector data from Wikipedia and downloading stock prices. Applied data cleaning techniques to prepare the dataset.
 - Calculated daily logarithmic returns and annualized returns for all S&P500 sector stocks using Python, ensuring accurate financial analysis.
 - Performed statistical analysis on the top three performing stocks in each sector, comparing their performance with the S&P500 index.
