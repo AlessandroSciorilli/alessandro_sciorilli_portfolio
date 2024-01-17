@@ -1,4 +1,4 @@
-# Alessandro Sciorilli - Data Science and Analytics Portfolio
+## Alessandro Sciorilli - Data Science and Analytics Portfolio
 
 ### Project 1: Analyzing IMDB Datasets with AWS Spark Cluster and PySpark, 2023
 - https://github.com/AlessandroSciorilli/IMDB_analysis_AWS_PySpark
