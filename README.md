@@ -34,12 +34,14 @@ extract detailed insights
 - Deployed the model on PythonAnywhere with a user-friendly interface for real-time predictions
 - Model is deployed at the following link: https://asciorilli.pythonanywhere.com/skin_tumor_image_classifier
 
-### Project 5: Predictive Revenue Forecasting for B2B Client Management (Top 5 finalist at Pitney Bowes Data Challenge), 2023
+### Project 5: Revenue Forecasting with Python (Top 5 finalist at Pitney Bowes Data Challenge), 2023
+- https://github.com/AlessandroSciorilli/revenue_forecasting_python
 - Implemented an ARIMA-based predictive model for revenue forecasting, utilizing Python for data analysis and modeling.
 - Preprocessed and aggregated a diverse dataset, identifying critical revenue trends and patterns, and adjusted for variations in client data points and onboarding periods.
 - Enhanced the ARIMA model to consider business days only, improving accuracy in forecasting by eliminating non-business day revenue data.
 - Performed seasonal decomposition segmented by clients' NAICS codes, allowing for industry-specific trend analysis and better prediction accuracy.
 - Created a Tableau Dashboard for effective visualization of forecasting results, enabling clear interpretation of seasonal components, residuals, and industry-specific trends, thereby enhancing data-driven decision-making strategies.
+- Tableau Dashboard at the following link: https://public.tableau.com/app/profile/alessandrosciorilli/viz/PitneyBowesAnalysis/Dashboard2
 
 ### Project 6: Design and Implementation of a SQL Database, 2023
 - Created a SQL-driven database for a fictional Manhattan bakery to streamline operations and customer data management.
