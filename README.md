@@ -26,6 +26,7 @@ extract detailed insights
 - Model is deployed at the following link: https://asciorilli.pythonanywhere.com/Bank_Customer_Churn_Prediction 
 
 ### Project 4: Machine Learning Model for Skin Tumor Image Classification, 2023
+- https://github.com/AlessandroSciorilli/Skin_Tumor_Image_Classification
 - Developed a machine learning model to classify skin tumors using dermatoscopic images, enhancing early diagnosis and treatment strategies.
 - Implemented image processing techniques such as local binary pattern analysis, grayscale conversion, and edge detection using Prewitt operators, alongside image resizing for consistent analysis.
 - Balanced the dataset by resizing and ensuring equal representation of different tumor types, leading to more accurate and unbiased classification results.
